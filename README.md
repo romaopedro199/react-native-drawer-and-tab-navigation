@@ -6,3 +6,7 @@ Neste repositório tenho um exemplo da utilização do Drawer Navigator junto co
 $ yarn install
 $ yarn start
 ```
+
+O resultado deve ser como o exemplo abaixo:
+
+![](https://romaopedro.com/wp-content/uploads/2020/12/react-native-drawer-and-tab-navigation-running.gif)
