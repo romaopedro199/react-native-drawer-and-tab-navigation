@@ -9,4 +9,4 @@ $ yarn start
 
 O resultado deve ser como o exemplo abaixo:
 
-<img src="https://github.com/romaopedro199/react-native-drawer-and-tab-navigation/blob/main/react-native-drawer-and-tab-navigation.gif" alt="Example gif" title="Example gif" width="600"/>
+<img src="https://github.com/romaopedro199/react-native-drawer-and-tab-navigation/blob/main/react-native-drawer-and-tab-navigation.gif" alt="Example gif" title="Example gif" width="400"/>
