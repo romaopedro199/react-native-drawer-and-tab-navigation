@@ -9,4 +9,4 @@ $ yarn start
 
 O resultado deve ser como o exemplo abaixo:
 
-![](https://romaopedro.com/wp-content/uploads/2020/12/react-native-drawer-and-tab-navigation-running.gif)
+![](https://romaopedro.com/wp-content/uploads/2020/12/react-native-drawer-and-tab-navigation.gif)
