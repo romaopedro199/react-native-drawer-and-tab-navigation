@@ -1,15 +1,15 @@
-# React Native: Drawer Navigator e Bottom Tab Navigator na mesma aplicação
+# React Native: Drawer Navigator and Bottom Tab Navigator in the same application
 
-Neste repositório tenho um exemplo da utilização do Drawer Navigator junto com o Bottom Tab Navigator na mesma aplicação. Basta clonar o repositório e executar os seguintes comandos no terminal para instalar as dependências e rodar o app no seu emulador ou smartphone:
+In this repository I have an example of using Drawer Navigator together with Bottom Tab Navigator in the same application. Just clone the repository and run the following commands on the terminal to install the dependencies and run the app on your emulator or smartphone:
 
 ```sh
 $ yarn install
 $ yarn start
 ```
 
-O resultado deve ser como o exemplo abaixo:
+Preview:
 
 <img src="https://github.com/romaopedro199/react-native-drawer-and-tab-navigation/blob/main/react-native-drawer-and-tab-navigation.gif" alt="Example gif" title="Example gif" width="400"/>
 
-##### Para artigos, tutoriais e projetos
-Acesse: https://romaopedro.com/
+##### Articles, tutorials and projects
+https://romaopedro.com/
